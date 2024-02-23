@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm Sergey Siyanko
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <br/>
-<hr/>
 <br/>
 <img src="https://raw.githubusercontent.com/Virgusman/Virgusman/main/307276971-b0d420ac-617e-4711-9f02-ed069d8876d9.png" alt="альтернативный текст">
 
