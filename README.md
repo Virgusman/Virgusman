@@ -3,7 +3,7 @@
 <br/>
 <hr/>
 <br/>
-![image](https://github.com/Virgusman/Virgusman/assets/113599394/62165e6e-39ed-4910-a479-64204f489d48)
+<img src="https://raw.githubusercontent.com/Virgusman/Virgusman/main/307276971-b0d420ac-617e-4711-9f02-ed069d8876d9.png" alt="альтернативный текст">
 
 
 
