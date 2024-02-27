@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I'm Sergey Siyanko
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<b align="center">There are no two words in the English language more harmful than "good job"</b>
+<b align="center" style=»text-align: center;»
+Источник: https://uchet-jkh.ru/i/kak-raspolozit-srift-po-centru-v-html>There are no two words in the English language more harmful than "good job"</b>
 <br/>
 <br/>
 <img src="https://raw.githubusercontent.com/Virgusman/Virgusman/main/307276971-b0d420ac-617e-4711-9f02-ed069d8876d9.png" alt="альтернативный текст">
