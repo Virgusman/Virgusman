@@ -1,6 +1,7 @@
-<h1 align="center">Hi there, I'm Sergey Siyanko</h1>
+<h1 class="heading-element" align="center">Hi there, I'm Sergey Siyanko</h1>
 <p align="center"><b>'There are no two words in the English language more harmful than "good job"'</b></p>
 <br/>
+<h1 class="heading-element" dir="auto">Tech Stack:</h1>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
