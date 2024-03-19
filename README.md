@@ -1,4 +1,4 @@
-# Hi there, I'm Sergey Siyanko
+<h1><p align="center"><b>Hi there, I'm Sergey Siyanko</b></p></h1>
 <p align="center"><b>'There are no two words in the English language more harmful than "good job"'</b></p>
 <br/>
 <h1 class="heading-element" dir="auto">Tech Stack:</h1>
